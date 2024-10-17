@@ -14,8 +14,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=masharipovumw&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masharipovumw&theme=radical" alt="GitHub Streak">
 </p>
 
 ---
@@ -54,12 +54,12 @@ I love experimenting with the latest technologies and working on challenging pro
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masharipovumw&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=ff69b4" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=masharipovumw&style=flat-square&color=ff69b4" alt="Profile Views">
 </p>
