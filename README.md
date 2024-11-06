@@ -65,6 +65,6 @@ I love experimenting with the latest technologies and working on challenging pro
 </p>
 <p align="center">
   <a href="https://www.codewars.com/users/your_username">
-    <img src="https://www.codewars.com/users/masharipovumw/badges/large" alt="Codewars Badge">
+    <img src="https://www.codewars.com/users/masharipovumw/statse" alt="Codewars Badge">
   </a>
 </p>
