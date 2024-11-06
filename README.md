@@ -63,3 +63,8 @@ I love experimenting with the latest technologies and working on challenging pro
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=masharipovumw&style=flat-square&color=ff69b4" alt="Profile Views">
 </p>
+<p align="center">
+  <a href="https://www.codewars.com/users/your_username">
+    <img src="https://www.codewars.com/users/masharipovumw/badges/large" alt="Codewars Badge">
+  </a>
+</p>
